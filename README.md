@@ -12,7 +12,7 @@ Typescript
 NodeJS
 ReactJS
 NextjS
-CSS and Tailwind
+CSS/Tailwind
 HTML
 MongoDB
 
