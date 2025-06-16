@@ -10,7 +10,6 @@ Actively working with the following languages and frameworks/libraries 👨‍�
 JavaScript
 Python
 Typescript
-NodeJS
 ReactJS
 NextjS
 CSS/Tailwind
