@@ -12,6 +12,7 @@ Python
 Typescript
 ReactJS
 NextjS
+React Native
 CSS/Tailwind
 HTML
 MongoDB
